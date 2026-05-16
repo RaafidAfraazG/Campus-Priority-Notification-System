@@ -1,6 +1,6 @@
 # Campus Notification Assessment
 
-This project is a full stack assessment layout for a campus notification system. The implemented part is a React TypeScript frontend that consumes the provided protected notification API, shows all notifications, tracks viewed items locally, and builds a priority inbox.
+A campus notification system. The implemented part is a React TypeScript frontend that consumes the provided protected notification API, shows all notifications, tracks viewed items locally, and builds a priority inbox.
 
 ## Install And Run
 
