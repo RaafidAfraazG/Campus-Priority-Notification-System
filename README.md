@@ -1,6 +1,6 @@
 # Campus Notification Assessment
 
-A campus notification system. The implemented part is a React TypeScript frontend that consumes the provided protected notification API, shows all notifications, tracks viewed items locally, and builds a priority inbox.
+React TypeScript frontend for a protected campus notification API with notification listing, local viewed-state tracking, priority inbox, logging middleware, and system design documentation.
 
 ## Install And Run
 
