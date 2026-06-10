@@ -1,4 +1,4 @@
-# Campus Notification Assessment
+# Campus-Priority-Notification-System
 
 React TypeScript frontend for a protected campus notification API with notification listing, local viewed-state tracking, priority inbox, logging middleware, and system design documentation.
 
